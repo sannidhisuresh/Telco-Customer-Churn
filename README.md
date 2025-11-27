@@ -1,6 +1,6 @@
 Telco-Customer-Churn
 
-This project analyzes customer churn for a telecom company and predicts which customers are likely to leave (churn). The goal is to identify key factors affecting churn and build a machine learning model for prediction.
+This project analyzes customer churn for a telecom company and predicts which customers are likely to leave (churn). The goal is to identify key factors influencing churn and build a machine learning model for prediction.
 
 Overview
 
@@ -59,7 +59,7 @@ Monthly charges analysis
 
 Service usage patterns
 
-3. Visualizations
+Visualizations
 Churn Count
 
 Churn Distribution
@@ -100,7 +100,7 @@ Jupyter Notebook
 
 Notebook
 
-Full analysis and model code is available in:
+Full analysis and model code is available in the notebook:
 
 TelcoCustomerChurn_Analysis.ipynb
 
@@ -108,19 +108,18 @@ How to Run
 1. Clone the repository
 git clone https://github.com/sannidhisuresh/Telco-Customer-Churn.git
 
-2. Go to the project directory
+2. Navigate to the project directory
 cd Telco-Customer-Churn
 
-3. Install required libraries
+3. Install dependencies
 pip install -r requirements.txt
 
-4. Open the notebook
+4. Run the notebook
 jupyter notebook TelcoCustomerChurn_Analysis.ipynb
 
 Author
 
 Sannidhi H S
-
 GitHub: https://github.com/sannidhisuresh
 
 LinkedIn: https://www.linkedin.com/in/sannidhisuresh5106
