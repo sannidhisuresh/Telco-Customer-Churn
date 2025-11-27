@@ -34,18 +34,23 @@ The dataset contains:
 **Visual Summary:**
 
 **Churn Count**
+
 ![Churn Count](https://github.com/sannidhisuresh/Telco-Customer-Churn/raw/main/images/churn_count.png)
 
 **Churn Distribution**
+
 ![Churn Distribution](https://github.com/sannidhisuresh/Telco-Customer-Churn/raw/main/images/churn_distribution.png)
 
 **Contract vs Churn**
+
 ![Contract vs Churn](https://github.com/sannidhisuresh/Telco-Customer-Churn/raw/main/images/contract_vs_churn.png)
 
 **Tenure vs Churn**
+
 ![Tenure vs Churn](https://github.com/sannidhisuresh/Telco-Customer-Churn/raw/main/images/tenure_vs_churn.png)
 
 **Monthly Charges vs Churn (Predicted)**
+
 ![Predicted Churn](https://github.com/sannidhisuresh/Telco-Customer-Churn/raw/main/images/predicted_churn.png)
 
 **Machine Learning Model**
