@@ -1,79 +1,126 @@
-# Telco-Customer-Churn
+Telco-Customer-Churn
 
-This project analyzes customer churn for a telecom company and predicts which customers are likely to leave (churn).  
-The goal is to identify key factors influencing churn and build a machine learning model for prediction.
+This project analyzes customer churn for a telecom company and predicts which customers are likely to leave (churn). The goal is to identify key factors affecting churn and build a machine learning model for prediction.
 
-## Dataset
-The dataset contains information about:
-- Customer demographics  
-- Subscription details  
-- Contract type & tenure  
-- Monthly & total charges  
-- Churn status  
+Overview
 
-**Main file:** `Churn_Predicted.csv`
+Customer churn is a major challenge in the telecom industry. This project performs end-to-end analysis including:
 
-## Project Workflow
+Data cleaning and preprocessing
 
-###  Data Cleaning & Preprocessing
-- Handling missing values  
-- Encoding categorical variables  
-- Scaling numerical features  
+Exploratory Data Analysis (EDA)
 
-###  Exploratory Data Analysis (EDA)
-- Distribution of churn  
-- Relationship between churn & contract  
-- Tenure impact  
-- Service subscription patterns  
+Visualization of important trends
 
-###   Visualization
-Below are some key visualizations used in the analysis:
+Machine learning model for churn prediction
 
-####  Churn Count  
-![Churn Count](churn_count.png)
+Model evaluation and insights
 
-####  Churn Distribution  
-![Churn Distribution](churn_distribution.png)
+Dataset
 
-####  Contract vs Churn  
-![Contract vs Churn](contract_vs_churn.png)
+The dataset contains information such as:
 
-####  Tenure vs Churn  
-![Tenure vs Churn](tenure_vs_churn.png)
+Demographics
 
-####  Predicted Churn (Model Output)  
-![Predicted Churn](predicted_churn.png)
+Services subscribed
 
-##  Machine Learning  
+Contract type
+
+Tenure
+
+Monthly/Total charges
+
+Payment method
+
+Churn status
+
+Dataset file: Churn_Predicted.csv
+
+Project Workflow
+1. Data Cleaning & Preprocessing
+
+Handled missing values
+
+Encoded categorical columns
+
+Scaled numerical features
+
+Identified correlations
+
+2. Exploratory Data Analysis (EDA)
+
+Churn percentage
+
+Contract type vs churn
+
+Tenure behavior
+
+Monthly charges analysis
+
+Service usage patterns
+
+3. Visualizations
+Churn Count
+
+Churn Distribution
+
+Contract vs Churn
+
+Tenure vs Churn
+
+Predicted Churn (Model Output)
+
+Machine Learning Model
+
 A churn prediction model was built using:
-- Logistic Regression / Random Forest (based on your notebook)
-- Train–test split  
-- Evaluation metrics (Accuracy, Confusion Matrix)
 
-##  Tools & Technologies
-- Python  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Scikit-learn  
-- Jupyter Notebook  
+Logistic Regression
 
-##  Notebook
- **Click here to view full analysis:**  
-[`TelcoCustomerChurn_Analysis.ipynb`](TelcoCustomerChurn_Analysis.ipynb)
+Random Forest Classifier
 
-##  How to Use 
+Train–test split
 
-1. Clone the repository:
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/sannidhisuresh/Telco-Customer-Churn.git)
+Classification report
 
-2. Install required dependencies:
-   pip install -r requirements.txt
+Confusion matrix
 
-3. Open the notebook:
-   jupyter notebook TelcoCustomerChurn_Analysis.ipynb
+The model outputs a predicted churn label for each customer.
 
-4. Run all cells to:
-   - Clean data  
-   - View visualizations  
-   - Train prediction model  
+Tools & Technologies
 
+Python
+
+Pandas, NumPy
+
+Matplotlib, Seaborn
+
+Scikit-learn
+
+Jupyter Notebook
+
+Notebook
+
+Full analysis and model code is available in:
+
+TelcoCustomerChurn_Analysis.ipynb
+
+How to Run
+1. Clone the repository
+git clone https://github.com/sannidhisuresh/Telco-Customer-Churn.git
+
+2. Go to the project directory
+cd Telco-Customer-Churn
+
+3. Install required libraries
+pip install -r requirements.txt
+
+4. Open the notebook
+jupyter notebook TelcoCustomerChurn_Analysis.ipynb
+
+Author
+
+Sannidhi H S
+
+GitHub: https://github.com/sannidhisuresh
+
+LinkedIn: https://www.linkedin.com/in/sannidhisuresh5106
