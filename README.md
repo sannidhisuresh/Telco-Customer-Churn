@@ -4,81 +4,48 @@ This project analyzes customer churn for a telecom company and predicts which cu
 
 **Overview**
 
-Customer churn is a critical challenge in the telecom industry. This project performs a complete end-to-end analysis, including:
+This project performs a complete end-to-end analysis, including:
 
-* Data cleaning & preprocessing
-
+* Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
-
-* Visualizing churn patterns
-
 * Building a machine learning churn prediction model
-
 * Model evaluation & insights
 
 **Dataset**
 
 The dataset includes:
 
-* Demographics
-
+* Customer demographics
 * Subscribed services
-
 * Contract type
-
 * Tenure
-
 * Monthly & total charges
-  
 * Churn status
 
-Dataset File: Churn_Predicted.csv
+**Dataset file:** [Churn_Predicted.csv](https://github.com/sannidhisuresh/Telco-Customer-Churn/blob/main/Churn_Predicted.csv)
 
-**Project Workflow**
-**1 Data Cleaning & Preprocessing**
+**Data Cleaning & Preprocessing**
 
 * Handled missing values
-
-* Converted categorical columns
-
+* Converted categorical columns to numeric
 * Scaled numerical values
-
 * Checked correlations
 
-**2️ Exploratory Data Analysis (EDA)**
+**Exploratory Data Analysis (EDA)**
 
 * Churn distribution
-
 * Contract type effect
-
 * Tenure vs churn
-
 * Monthly charges analysis
-
-**Visualizations**
-
-Churn Count
-
-Churn Distribution
-
-Contract vs Churn
-
-Tenure vs Churn
-
-Predicted Churn (Model Output)
 
 **Machine Learning Model**
 
 The churn prediction model uses:
 
 * Logistic Regression
-
 * Random Forest Classifier
-
 * Train–Test Split
-
 * Classification Report
-
 * Confusion Matrix
 
 The model predicts whether a customer will churn or stay.
@@ -86,38 +53,29 @@ The model predicts whether a customer will churn or stay.
 **Tools & Technologies**
 
 * Python
-
 * Pandas, NumPy
-
 * Matplotlib, Seaborn
-
 * Scikit-learn
-
 * Jupyter Notebook
 
-**Notebook**
-
-Full analysis and model code are available here:
-
-TelcoCustomerChurn_Analysis.ipynb
+**Notebook:** [TelcoCustomerChurn_Analysis.ipynb](https://github.com/sannidhisuresh/Telco-Customer-Churn/blob/main/TelcoCustomerChurn_Analysis.ipynb)
 
 **How to Run the Project**
-1. Clone the repository
+
+**Clone the repository**
 git clone https://github.com/sannidhisuresh/Telco-Customer-Churn.git
 
-2. Move into the project directory
+**Move into the project directory**
 cd Telco-Customer-Churn
 
-3. Install dependencies
+**Install dependencies**
 pip install -r requirements.txt
 
-4. Open the notebook
+**Open the notebook**
 jupyter notebook TelcoCustomerChurn_Analysis.ipynb
 
 **Author**
 
-Sannidhi H S
-
-GitHub: https://github.com/sannidhisuresh
-
-LinkedIn: https://www.linkedin.com/in/sannidhisuresh5106
+**Sannidhi H S**
+GitHub: [https://github.com/sannidhisuresh](https://github.com/sannidhisuresh)
+LinkedIn: [https://www.linkedin.com/in/sannidhisuresh5106](https://www.linkedin.com/in/sannidhisuresh5106)
