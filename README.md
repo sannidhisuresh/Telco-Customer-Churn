@@ -24,6 +24,10 @@ Churn Distribution
 
 ![Churn Distribution](churn_distribution.png)
 
+Tenure vs Churn
+
+![Tenure vs Churn](tenure_vs_churn.png)
+
 Contract vs Churn
 
 ![Contract vs Churn](contract_vs_churn.png)
@@ -31,10 +35,6 @@ Contract vs Churn
 Predicted Churn
 
 ![Predicted Churn](predicted_churn.png)
-
-Tenure vs Churn
-
-![Tenure vs Churn](tenure_vs_churn.png)
 
 Tools & Technologies
 - Python, Pandas, NumPy
