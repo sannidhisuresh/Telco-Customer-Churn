@@ -1,61 +1,62 @@
-## Telco-Customer-Churn
+**Telco-Customer-Churn**
 
 This project analyzes customer churn for a telecom company and predicts which customers are likely to leave (churn). The goal is to identify key factors influencing churn and build a machine learning model for prediction.
 
-## Overview
+**Overview**
 
 Customer churn is a critical challenge in the telecom industry. This project performs a complete end-to-end analysis, including:
 
-- Data cleaning & preprocessing
+* Data cleaning & preprocessing
 
-- Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis (EDA)
 
-- Visualizing churn patterns
+* Visualizing churn patterns
 
-- Building a machine learning churn prediction model
+* Building a machine learning churn prediction model
 
-- Model evaluation & insights
+* Model evaluation & insights
 
-## Dataset
+**Dataset**
 
 The dataset includes:
 
-- Demographics
+* Demographics
 
-- Subscribed services
+* Subscribed services
 
-- Contract type
+* Contract type
 
-- Tenure
+* Tenure
 
-- Monthly & total charges
-
-- Churn status
+* Monthly & total charges
+  
+* Churn status
 
 Dataset File: Churn_Predicted.csv
 
-## Project Workflow
-## 1 Data Cleaning & Preprocessing
+**Project Workflow**
+**1 Data Cleaning & Preprocessing**
 
-- Handled missing values
+* Handled missing values
 
-- Converted categorical columns
+* Converted categorical columns
 
-- Scaled numerical values
+* Scaled numerical values
 
-- Checked correlations
+* Checked correlations
 
-## 2️ Exploratory Data Analysis (EDA)
+**2️ Exploratory Data Analysis (EDA)**
 
-- Churn distribution
+* Churn distribution
 
-- Contract type effect
+* Contract type effect
 
-- Tenure vs churn
+* Tenure vs churn
 
-- Monthly charges analysis
+* Monthly charges analysis
 
-## Visualizations
+**Visualizations**
+
 Churn Count
 
 Churn Distribution
@@ -66,41 +67,41 @@ Tenure vs Churn
 
 Predicted Churn (Model Output)
 
-## Machine Learning Model
+**Machine Learning Model**
 
 The churn prediction model uses:
 
-- Logistic Regression
+* Logistic Regression
 
-- Random Forest Classifier
+* Random Forest Classifier
 
-- Train–Test Split
+* Train–Test Split
 
-- Classification Report
+* Classification Report
 
-- Confusion Matrix
+* Confusion Matrix
 
 The model predicts whether a customer will churn or stay.
 
-## Tools & Technologies
+**Tools & Technologies**
 
-- Python
+* Python
 
-- Pandas, NumPy
+* Pandas, NumPy
 
-- Matplotlib, Seaborn
+* Matplotlib, Seaborn
 
-- Scikit-learn
+* Scikit-learn
 
-- Jupyter Notebook
+* Jupyter Notebook
 
-## Notebook
+**Notebook**
 
 Full analysis and model code are available here:
 
 TelcoCustomerChurn_Analysis.ipynb
 
-## How to Run the Project
+**How to Run the Project**
 1. Clone the repository
 git clone https://github.com/sannidhisuresh/Telco-Customer-Churn.git
 
@@ -113,7 +114,7 @@ pip install -r requirements.txt
 4. Open the notebook
 jupyter notebook TelcoCustomerChurn_Analysis.ipynb
 
-## Author
+**Author**
 
 Sannidhi H S
 
