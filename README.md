@@ -42,4 +42,6 @@ Tools & Technologies
 - Jupyter Notebook
 
 Notebook
-- TelcoCustomerChurn_Analysis.ipynb
+
+- Detailed analysis and code are available in [TelcoCustomerChurn_Analysis.ipynb](TelcoCustomerChurn_Analysis.ipynb)
+
