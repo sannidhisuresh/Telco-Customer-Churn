@@ -65,7 +65,6 @@ A churn prediction model was built using:
 
 1. Clone the repository:
    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/sannidhisuresh/Telco-Customer-Churn.git)
-   cd your-repo-name
 
 2. Install required dependencies:
    pip install -r requirements.txt
