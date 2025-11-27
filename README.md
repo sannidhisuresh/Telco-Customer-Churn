@@ -1,19 +1,22 @@
 **Telco-Customer-Churn**
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24-lightgrey?logo=scikit-learn) ![Status](https://img.shields.io/badge/Status-Completed-success)
+
 This project analyzes customer churn for a telecom company and predicts which customers are likely to leave (churn). The goal is to identify key factors influencing churn and build a machine learning model for prediction.
 
 **Overview**
 
-This project performs a complete end-to-end analysis, including:
+This end-to-end project includes:
 
 * Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* Building a machine learning churn prediction model
-* Model evaluation & insights
+* Exploratory Data Analysis (EDA) with insights
+* Machine Learning model building and evaluation
+
+The objective is to predict whether a customer will churn or stay, helping the company improve customer retention.
 
 **Dataset**
 
-The dataset includes:
+The dataset contains:
 
 * Customer demographics
 * Subscribed services
@@ -24,31 +27,34 @@ The dataset includes:
 
 **Dataset file:** [Churn_Predicted.csv](https://github.com/sannidhisuresh/Telco-Customer-Churn/blob/main/Churn_Predicted.csv)
 
-**Data Cleaning & Preprocessing**
+**Key Insights from EDA**
 
-* Handled missing values
-* Converted categorical columns to numeric
-* Scaled numerical values
-* Checked correlations
+* Churn is higher among month-to-month contract customers.
+* Customers with higher monthly charges are more likely to churn.
+* Longer-tenured customers have lower churn rates.
 
-**Exploratory Data Analysis (EDA)**
+**Visual Summary:**
 
-* Churn distribution
-* Contract type effect
-* Tenure vs churn
-* Monthly charges analysis
+**Churn Distribution**
+![Churn Distribution](./images/churn_distribution.png)
+
+**Contract vs Churn**
+![Contract vs Churn](./images/contract_vs_churn.png)
 
 **Machine Learning Model**
 
-The churn prediction model uses:
+The project uses:
 
 * Logistic Regression
 * Random Forest Classifier
-* Train–Test Split
-* Classification Report
-* Confusion Matrix
 
-The model predicts whether a customer will churn or stay.
+**Evaluation Metrics:**
+
+* Train–Test Split
+* Confusion Matrix
+* Classification Report
+
+The model predicts whether a customer will churn or stay with reasonable accuracy.
 
 **Tools & Technologies**
 
@@ -65,7 +71,7 @@ The model predicts whether a customer will churn or stay.
 * Clone the repository
 git clone https://github.com/sannidhisuresh/Telco-Customer-Churn.git
 
-* Move into the project directory
+* Navigate to project directory
 cd Telco-Customer-Churn
 
 * Install dependencies
