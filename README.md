@@ -62,16 +62,16 @@ The model predicts whether a customer will churn or stay.
 
 **How to Run the Project**
 
-*Clone the repository
+* Clone the repository
 git clone https://github.com/sannidhisuresh/Telco-Customer-Churn.git
 
-*Move into the project directory
+* Move into the project directory
 cd Telco-Customer-Churn
 
-*Install dependencies
+* Install dependencies
 pip install -r requirements.txt
 
-*Open the notebook
+* Open the notebook
 jupyter notebook TelcoCustomerChurn_Analysis.ipynb
 
 **Author**
