@@ -37,8 +37,8 @@ Tenure vs Churn
 ![Tenure vs Churn](tenure_vs_churn.png)
 
 Tools & Technologies
-Python, Pandas, NumPy
-Matplotlib, Seaborn
+- Python, Pandas, NumPy
+- Matplotlib, Seaborn
 - Jupyter Notebook
 
 Notebook
