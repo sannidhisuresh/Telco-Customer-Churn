@@ -117,6 +117,6 @@ jupyter notebook TelcoCustomerChurn_Analysis.ipynb
 
 Sannidhi H S
 
-## GitHub: https://github.com/sannidhisuresh
+GitHub: https://github.com/sannidhisuresh
 
-## LinkedIn: https://www.linkedin.com/in/sannidhisuresh5106
+LinkedIn: https://www.linkedin.com/in/sannidhisuresh5106
