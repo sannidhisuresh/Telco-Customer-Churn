@@ -15,18 +15,18 @@ The dataset contains information about:
 
 ## Project Workflow
 
-###  Data Cleaning & Preprocessing**
+###  Data Cleaning & Preprocessing
 - Handling missing values  
 - Encoding categorical variables  
 - Scaling numerical features  
 
-###  Exploratory Data Analysis (EDA)**
+###  Exploratory Data Analysis (EDA)
 - Distribution of churn  
 - Relationship between churn & contract  
 - Tenure impact  
 - Service subscription patterns  
 
-###   Visualization**
+###   Visualization
 Below are some key visualizations used in the analysis:
 
 ####  Churn Count  
@@ -64,32 +64,17 @@ A churn prediction model was built using:
 ##  How to Use 
 
 1. Clone the repository:
-   ```
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
-   ```
 
 2. Install required dependencies:
-   ```
    pip install -r requirements.txt
-   ```
 
 3. Open the notebook:
-   ```
    jupyter notebook TelcoCustomerChurn_Analysis.ipynb
-   ```
 
 4. Run all cells to:
    - Clean data  
    - View visualizations  
    - Train prediction model  
 
-##  Summary
-This project provides a full churn analysis pipeline from data cleaning → EDA → visualization → model building → predictions.  
-Helps telecom companies understand churn patterns and take proactive actions.
-
----
-
- 
-
-Just tell me!
