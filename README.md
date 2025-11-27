@@ -17,24 +17,29 @@ Analysis Steps
 Visualizations
 
 Churn Count
+
 ![Churn Count](churn_count.png)
 
 Churn Distribution
+
 ![Churn Distribution](churn_distribution.png)
 
 Contract vs Churn
+
 ![Contract vs Churn](contract_vs_churn.png)
 
 Predicted Churn
+
 ![Predicted Churn](predicted_churn.png)
 
-### Tenure vs Churn
+Tenure vs Churn
+
 ![Tenure vs Churn](tenure_vs_churn.png)
 
-## Tools & Technologies
-- Python, Pandas, NumPy
-- Matplotlib, Seaborn
+Tools & Technologies
+Python, Pandas, NumPy
+Matplotlib, Seaborn
 - Jupyter Notebook
 
-## Notebook
-- `TelcoCustomerChurn_Analysis.ipynb`
+Notebook
+- TelcoCustomerChurn_Analysis.ipynb
