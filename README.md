@@ -1,4 +1,4 @@
-Telco Customer Churn Analysis
+Telco-Customer-Churn
 
 Overview
 This project analyzes customer churn for a telecom company and predicts which customers are likely to leave. The goal is to identify key factors affecting churn and provide actionable insights.
