@@ -43,5 +43,6 @@ Tools & Technologies
 
 Notebook
 
-- Detailed analysis and code are available in [TelcoCustomerChurn_Analysis.ipynb](TelcoCustomerChurn_Analysis.ipynb)
+Detailed analysis and code are available in 
+[TelcoCustomerChurn_Analysis.ipynb](TelcoCustomerChurn_Analysis.ipynb)
 
