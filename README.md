@@ -34,10 +34,10 @@ The dataset contains:
 **Visual Summary:**
 
 **Churn Distribution**
-![Churn Distribution](./images/churn_distribution.png)
+![Churn Distribution](https://github.com/sannidhisuresh/Telco-Customer-Churn/raw/main/images/churn_distribution.png)
 
 **Contract vs Churn**
-![Contract vs Churn](./images/contract_vs_churn.png)
+![Contract vs Churn](https://github.com/sannidhisuresh/Telco-Customer-Churn/raw/main/images/contract_vs_churn.png)
 
 **Machine Learning Model**
 
