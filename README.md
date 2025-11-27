@@ -1,7 +1,5 @@
 **Telco-Customer-Churn**
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24-lightgrey?logo=scikit-learn) ![Status](https://img.shields.io/badge/Status-Completed-success)
-
 This project analyzes customer churn for a telecom company and predicts which customers are likely to leave (churn). The goal is to identify key factors influencing churn and build a machine learning model for prediction.
 
 **Overview**
